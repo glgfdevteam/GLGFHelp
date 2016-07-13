@@ -1,0 +1,22 @@
+---
+#Number of pages. If you have made up to page.6 but wrote pages: as 5, then the 6th page will display the vanilla /help 6 command.
+pages: 2
+
+#Page messages. Format is...
+#page.4:
+# - Help message on page 4
+# - Another help message on page 4
+# - ...
+page.1:
+ - §b§lGLGF §r§eHelp §a(1/2)
+ - §d/spawn - §fBay Tới Spawn.
+ - §d/donate - §fHướng Dẫn Donate.
+ - §d/info - §fShow Info Của Server.
+ - §d/rank - §fList rank cho member của server.
+page.2:
+ - §b§lGLGF §r§eHelp §a(2/2)
+ - §d/mail - §fMail Contact Với Staff.
+ - §d/tell - §fNói Chuyện Riêng Với Player Khác
+ - §d/minigame - §fShow All Minigame Server Có.
+ - §d/vote - §fVote cho server đã nhận quà.
+...
